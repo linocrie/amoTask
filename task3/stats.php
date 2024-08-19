@@ -53,6 +53,7 @@ $conn->close();
 <head>
   <title>Page Visit Statistics</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="script.js"></script>
 </head>
 <body>
   <h1>Page Visit Statistics</h1>
